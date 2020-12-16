@@ -1,0 +1,24 @@
+body{
+  background-image:  url('images/bg.jpg');
+  font-family: 微軟正黑體;
+}
+
+.container{
+  background-color: rgb(163, 230, 174);
+}
+
+#shop_head{
+  margin-bottom: 15px;
+}
+
+#shop_main{
+  min-height: 200px;
+}
+
+#shop_foot{
+ background-color: rgb(29, 65, 27);
+ color: #fff;
+ padding: 30px;
+ line-height: 1.8;
+ margin: 15px 0px;
+}
